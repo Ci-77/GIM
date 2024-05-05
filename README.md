@@ -17,9 +17,9 @@ IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端�
 
 ```bash
 ## 克隆项目源码包
-git clone https://gitee.com/gzydong/LumenIM.git
+git clone http://github.com/Ci-77/GIM
 或
-git clone https://github.com/gzydong/LumenIM.git
+git clone https://github.com/Ci-77/GIM
 
 ## 安装项目依赖扩展组件
 yarn install
